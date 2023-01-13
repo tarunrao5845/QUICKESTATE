@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.18aaf1db.css",
+    "main.js": "/static/js/main.fe3cc81e.js",
+    "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
+    "static/media/carbooking.jpg": "/static/media/carbooking.fa45361b1e6d86e06c36.jpg",
+    "static/media/Electrician-pana.png": "/static/media/Electrician-pana.a4470933a54b1b7300b4.png",
+    "static/media/nhk5.jpg": "/static/media/nhk5.05f0d0acf7c1382c1502.jpg",
+    "static/media/left.png": "/static/media/left.2065bb10fbdc0ad7c5b9.png",
+    "static/media/navimg.png": "/static/media/navimg.f17a57f2d70fb9a69fea.png",
+    "static/media/Right.png": "/static/media/Right.d13fa1182793874c0157.png",
+    "static/media/bunty.jpg": "/static/media/bunty.ef3844cb15cc77397e81.jpg",
+    "static/media/new.png": "/static/media/new.010db529bd7bf5989ea8.png",
+    "static/media/jony.jpg": "/static/media/jony.f0ea799e54650e874ea1.jpg",
+    "static/media/CompanyLogo.png": "/static/media/CompanyLogo.5aab4b18e49131bf6430.png",
+    "static/media/New Project.png": "/static/media/New Project.ce7a5da1a4fef7255e32.png",
+    "index.html": "/index.html",
+    "main.18aaf1db.css.map": "/static/css/main.18aaf1db.css.map",
+    "main.fe3cc81e.js.map": "/static/js/main.fe3cc81e.js.map",
+    "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.18aaf1db.css",
+    "static/js/main.fe3cc81e.js"
+  ]
+}
